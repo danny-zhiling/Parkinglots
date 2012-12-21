@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="guo-PC" name="com.buaa.parking.test.parkingDirectorTest" tests="1" time="0.01" timestamp="2012-12-17T18:31:02">
+  <properties />
+  <testcase classname="com.buaa.parking.test.parkingDirectorTest" name="ParkingManager_GetReport" time="0.0080" />
+  <system-out><![CDATA[经理编号：1
+    停车仔编号：1
+        停车场编号：1
+            车位数：3
+            空位数：3
+        Total车位数：3
+        Total空位数：3
+    停车仔编号：2
+        停车场编号：2
+            车位数：3
+            空位数：2
+        停车场编号：3
+            车位数：3
+            空位数：3
+        Total车位数：6
+        Total空位数：5
+    停车仔编号：3
+        停车场编号：4
+            车位数：3
+            空位数：3
+        停车场编号：5
+            车位数：3
+            空位数：3
+        Total车位数：6
+        Total空位数：6
+    Total车位数：15
+    Total空位数：14
+经理编号：2
+    停车仔编号：4
+        停车场编号：6
+            车位数：3
+            空位数：3
+        停车场编号：7
+            车位数：3
+            空位数：3
+        Total车位数：6
+        Total空位数：6
+    停车仔编号：5
+        停车场编号：8
+            车位数：3
+            空位数：2
+        停车场编号：9
+            车位数：3
+            空位数：3
+        停车场编号：10
+            车位数：3
+            空位数：3
+        Total车位数：9
+        Total空位数：8
+    Total车位数：15
+    Total空位数：14
+Total车位数：30
+Total空位数：28
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

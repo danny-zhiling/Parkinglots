@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="guo-PC" name="com.buaa.parking.test.parkingManagerTest" tests="2" time="0.0050" timestamp="2012-12-17T18:31:02">
+  <properties />
+  <testcase classname="com.buaa.parking.test.parkingManagerTest" name="ParkingManager_GetReport" time="0.0020" />
+  <testcase classname="com.buaa.parking.test.parkingManagerTest" name="ParkingManager_Parking_HavePlace" time="0.0010" />
+  <system-out><![CDATA[停车仔编号：11
+    停车场编号：21
+        车位数：2
+        空位数：1
+    停车场编号：22
+        车位数：2
+        空位数：2
+    停车场编号：23
+        车位数：2
+        空位数：2
+    Total车位数：6
+    Total空位数：5
+停车仔编号：12
+    停车场编号：24
+        车位数：2
+        空位数：2
+    停车场编号：25
+        车位数：2
+        空位数：2
+    停车场编号：26
+        车位数：2
+        空位数：2
+    Total车位数：6
+    Total空位数：6
+Total车位数：12
+Total空位数：11
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
